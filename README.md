@@ -27,3 +27,14 @@ This project is an educational prototype only. It is not intended for medical di
 
 ## 👩‍💻 Author
 Aarya Waghmare
+
+## 📸 Project Screenshots
+
+### Application Interface
+![Application Interface](screenshots/app-interface.png.png)
+
+### Sample Medicine Image
+![Sample Medicine](screenshots/sample-medicine.jpg.jpeg)
+
+### Medicine Analysis Result
+![Analysis Result](screenshots/analysis-result.png.png)
